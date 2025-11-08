@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Branded T-Shirt",
+        "price": 19.99,
+        "description": "Comfortable cotton tee",
+        "image": "https://images.pexels.com/photos/2228576/pexels-photo-2228576.jpeg"
+    },
+    {
+        "name": "Cool Sneakers",
+        "price": 69.99,
+        "description": "Stylish everyday sneakers",
+        "image": "https://images.pexels.com/photos/1070360/pexels-photo-1070360.jpeg"
+    },
+    {
+        "name": "Hot Hoodie",
+        "price": 39.99,
+        "description": "Warm hoodie with logo",
+        "image": "https://images.pexels.com/photos/907863/pexels-photo-907863.jpeg"
+    },
+    {
+        "name": "Slick Cap",
+        "price": 14.99,
+        "description": "Classic snapback cap",
+        "image": "https://images.pexels.com/photos/1124465/pexels-photo-1124465.jpeg"
+    },
+    {
+        "name": "Handy Backpack",
+        "price": 49.99,
+        "description": "Durable daypack",
+        "image": "https://images.pexels.com/photos/1986996/pexels-photo-1986996.jpeg"
+    }
+]
