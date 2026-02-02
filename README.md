@@ -1,4 +1,4 @@
-# 🛒 Mock E-Com Cart — Full-Stack Assignment
+# 🛒 Vibe Commerce — Mock E-Com Cart
 
 A production-ready **full-stack shopping cart application** built with:
 
